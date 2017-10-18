@@ -1,0 +1,40 @@
+Site
+
+Nome: Ajude a alfabetizar.
+
+Descrição: O aplicativo terá a intenção de ajudar crianças sem condições de estudar, assim facilitando a inscrição do usuário que queira ajudar, proporcionando oportunidades de estudo a crianças cadastradas.
+
+Público alvo: Todos aqueles que puderem e quiserem ajudar. 
+
+Requisitos funcionais:
+                       O usuário deverá realizar um cadatro e login para ter acesso ao site.
+                       
+                       O usuário escolherá o tipo de ajuda que deseja.
+                       
+                       O usuário escolherá quantas crianças irá ajudar.
+                       
+                       O usuário que precisa de ajuda fará um cadastro.
+                       
+                       Acesso a perfis do responsável da criança.
+                       
+                       O usuário que quiser ajudar poderá entrar em contato com o responsável da criança.
+                    
+
+Requisitos não-funcionais:
+                           A base de dados deve ser protegida para acesso apenas de usuários autorizados.
+
+                           O tempo de resposta do sistema não deve ultrapassar 20 segundos.
+                           
+                           O sistema deverá processar uma quantiodade de informações por um certo tempo.
+                           
+                           O sistema deverá executar em qualquer plataforma.
+                           
+                           A linguagem do site será em HTML.
+                           
+                           O sistema deverá ser compatível com todos navegadores.
+                           
+                           Requisitos de swegurança (https).
+
+                       
+                       
+                       
