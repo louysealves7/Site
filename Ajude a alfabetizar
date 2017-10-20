@@ -6,18 +6,26 @@ Descrição: O aplicativo terá a intenção de ajudar crianças sem condições
 
 Público alvo: Todos aqueles que puderem e quiserem ajudar. 
 
-Requisitos funcionais:
+Requisitos funcionais: DOADOR:
+
                        O usuário deverá realizar um cadatro e login para ter acesso ao site.
                        
                        O usuário escolherá o tipo de ajuda que deseja.
                        
                        O usuário escolherá quantas crianças irá ajudar.
                        
-                       O usuário que precisa de ajuda fará cadastro e login.
-                       
                        Acesso a perfis do responsável da criança.
                        
                        O usuário que quiser ajudar poderá entrar em contato com o responsável da criança.
+                    
+                       
+                       RESPONSÁVEL:
+                       
+                       O usuário que precisa de ajuda fará cadastro e login.
+                       
+                       Acesso a perfis do doador.
+                       
+                       O usuário poderá entrar em contato com o doador.
                     
 
 Requisitos não-funcionais:
@@ -33,7 +41,7 @@ Requisitos não-funcionais:
                            
                            O sistema deverá ser compatível com todos navegadores.
                            
-                           Requisitos de swegurança (https).
+                           Requisitos de segurança (https).
 
                        
                        
