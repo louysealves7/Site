@@ -14,16 +14,17 @@ Requisitos funcionais: DOADOR:
                        
                        O usuário escolherá quantas crianças irá ajudar.
                        
-                       Acesso a perfis do responsável da criança.
+                       O usuário terá acesso ao perfil do responsável da criança.
                        
                        O usuário que quiser ajudar poderá entrar em contato com o responsável da criança.
-                    
+                       
+                       O usuário poderá colocar em seu perfil o tipo de ajuda que tem a oferecer.
                        
                        RESPONSÁVEL:
                        
                        O usuário que precisa de ajuda fará cadastro e login.
                        
-                       Acesso a perfis do doador.
+                       O usuário terá o acesso a perfis de doadores.
                        
                        O usuário poderá entrar em contato com o doador.
                        
