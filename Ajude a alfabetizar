@@ -31,7 +31,7 @@ Requisitos funcionais: DOADOR:
                     
 
 Requisitos não-funcionais:
-                           A base de dados deve ser protegida para acesso apenas de usuários autorizados.
+                           A base de dados deve ser protegida para acesso apenas de desenvolvedores autorizados.
 
                            O tempo de resposta do sistema não deve ultrapassar 20 segundos.
                            
