@@ -4,7 +4,7 @@ Nome: Ajude a alfabetizar.
 
 Descrição: O aplicativo terá a intenção de ajudar crianças sem condições de estudar, assim facilitando a inscrição do usuário que queira ajudar, proporcionando oportunidades de estudo a crianças cadastradas.
 
-Público alvo: Todos aqueles que puderem e quiserem ajudar. 
+Público alvo: Todos aqueles que forem maior de idade, que puderem e quiserem ajudar. 
 
 Requisitos funcionais: DOADOR:
 
@@ -26,6 +26,8 @@ Requisitos funcionais: DOADOR:
                        Acesso a perfis do doador.
                        
                        O usuário poderá entrar em contato com o doador.
+                       
+                       O usuário poderá solicitar ajuda a um tutor especifico
                     
 
 Requisitos não-funcionais:
