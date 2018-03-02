@@ -10,7 +10,7 @@ Requisitos funcionais: DOADOR:
 
                        O usuário deverá realizar um cadatro e login para ter acesso ao site.
                        
-                       O usuário escolherá o tipo de ajuda que deseja.
+                       O usuário escolherá o tipo de ajuda que irá oferecer, usando filtros do aplicativo, nesses filtros aparecerá publicações de pessoas que precisam daquele tipo de ajuda.
                        
                        O usuário escolherá quantas crianças irá ajudar.
                        
@@ -23,6 +23,8 @@ Requisitos funcionais: DOADOR:
                        RESPONSÁVEL:
                        
                        O usuário que precisa de ajuda fará cadastro e login.
+                       
+                       O usuário poderá usar os filtros do aplicativo para buscar ajuda naquilo que precisa, nesse filtro irá aparecer publicações de pessoas oferecendo ajuda.
                        
                        O usuário terá o acesso a perfis de doadores.
                        
